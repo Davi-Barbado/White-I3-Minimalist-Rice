@@ -7,3 +7,4 @@ brave(aur)
 cmus
 cava
 yt-dlp
+autotiling
