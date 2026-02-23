@@ -1,0 +1,9 @@
+kitty
+jetbrains-mono
+nwg-bar
+nwg-look
+volctl(aur)
+brave(aur)
+cmus
+cava
+yt-dlp
